@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>function.qml</file>
+        <file>ExitDialog.qml</file>
+        <file>Newrun.qml</file>
+        <file>Historyrun.qml</file>
+        <file>image/history.png</file>
+        <file>image/running_man.png</file>
+        <file>image/exit2.png</file>
+        <file>image/iconhamburger.png</file>
+        <file>image/History_list.png</file>
+        <file>image/Cast_Glass_1.png</file>
+        <file>image/Cast_Glass_2.png</file>
+        <file>image/start_new.png</file>
+        <file>image/press_start_new.png</file>
+        <file>image/lock3.png</file>
+        <file>image/unlock3.png</file>
+        <file>image/Pause-icon.png</file>
+        <file>image/stop.png</file>
+        <file>image/now_position.png</file>
+        <file>image/level0.png</file>
+        <file>image/level1.png</file>
+        <file>image/level2.png</file>
+        <file>image/level3.png</file>
+        <file>LowsignalDialog.qml</file>
+        <file>image/delete_button3.png</file>
+        <file>image/settings_icon.png</file>
+        <file>Settings.qml</file>
+        <file>jscode/functionparam.js</file>
+        <file>DeleteDialog.qml</file>
+        <file>Menubar.qml</file>
+        <file>Grid_newrun.qml</file>
+    </qresource>
+</RCC>
