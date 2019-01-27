@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>function.qml</file>
         <file>ExitDialog.qml</file>
         <file>Newrun.qml</file>
         <file>Historyrun.qml</file>

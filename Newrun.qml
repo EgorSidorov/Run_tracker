@@ -465,7 +465,7 @@ color:\'yellow\'
                         anchors.fill: parent
                         onClicked: {
                             mapp.center = src.position.coordinate
-                            item2circle.center = coord
+                                item2circle.center = coord
                         }
                     }
                 }
@@ -926,6 +926,7 @@ color:\'yellow\'
     }
 
     Component.onCompleted: {
+        coord = QtPositioning.coordinate(55.75, 37.62)
         root.forceActiveFocus()
         mapp.center = src.position.coordinate
         item2circle = Qt.createQmlObject('
